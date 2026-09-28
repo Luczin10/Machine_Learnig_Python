@@ -54,10 +54,10 @@ Pré-requisitos
 Certifique-se de ter o Python instalado na sua máquina. Você também precisará instalar as bibliotecas dependentes.
 
 # Clone este repositório
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/Luczin10/Machine_Learning_Python.git
 
 # Entre na pasta do projeto
-cd NOME_DO_REPOSITORIO
+cd Machine_Learning_Python
 
 # Instale as dependências necessárias
 pip install pandas scikit-learn openpyxl
